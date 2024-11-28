@@ -24,23 +24,9 @@
 
 ---
 
-## Tech Stack  
-- **Languages:** Angular, Python Flask, React Native, SQL, PostgreSQL  
-- **Frameworks & Tools:** AWS Quick Sight, LabWare LIMS, Figma  
-- **Other Skills:** Data ETL, File Transfer Protocol, Task Management  
-
----
-
 ## Learning  
 - Data Structures & Algorithms (DSA)  
 - Mobile Application Development  
-
----
-
-## Certifications  
-- **MERN Stack** - Devtown  
-- **SQL** - SoloLearn  
-- **Nginx Server Deployment** - Udemy  
 
 ---
 ### Let's Collaborate to Build Amazing Things 🚀
