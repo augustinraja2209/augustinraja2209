@@ -11,7 +11,6 @@
 - 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augustin-raja-a8886a214)
 
-
 ---
 
 ## I Code In  
@@ -21,12 +20,6 @@
 
 ## Tools I Use  
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img width="50" height="50" src="https://img.icons8.com/office/50/java-eclipse.png" alt="java-eclipse"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img width="50" height="50" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/>
-
----
-
-## Learning  
-- Data Structures & Algorithms (DSA)  
-- Mobile Application Development  
 
 ---
 ### Let's Collaborate to Build Amazing Things 🚀
