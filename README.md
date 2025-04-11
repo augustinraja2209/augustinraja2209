@@ -7,7 +7,8 @@
 - 🌱 I’m currently learning **DSA** and **Mobile Application Development**  
 - 💃 I’m looking to collaborate on **Mobile Applications**  
 - 🤔 I’m seeking opportunities to make a global impact through technology  
-- 🗣️ Ask me about **Techie** 
+- 🗣️ Ask me about **Techie**
+- [🚀 Tracking my DSA grind](https://leetcode.com/u/augus_22/)
 - 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augustin-raja-a8886a214)
 
